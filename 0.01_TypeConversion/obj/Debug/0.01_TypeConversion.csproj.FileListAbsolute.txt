@@ -1,0 +1,6 @@
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.01_TypeConversion\bin\Debug\0.01_TypeConversion.exe.config
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.01_TypeConversion\bin\Debug\0.01_TypeConversion.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.01_TypeConversion\bin\Debug\0.01_TypeConversion.pdb
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.01_TypeConversion\obj\Debug\0.01_TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.01_TypeConversion\obj\Debug\0.01_TypeConversion.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.01_TypeConversion\obj\Debug\0.01_TypeConversion.pdb

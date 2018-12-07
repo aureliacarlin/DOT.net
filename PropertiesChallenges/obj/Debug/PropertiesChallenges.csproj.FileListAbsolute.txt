@@ -1,0 +1,7 @@
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\PropertiesChallenges\bin\Debug\PropertiesChallenges.exe.config
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\PropertiesChallenges\bin\Debug\PropertiesChallenges.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\PropertiesChallenges\bin\Debug\PropertiesChallenges.pdb
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\PropertiesChallenges\obj\Debug\PropertiesChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\PropertiesChallenges\obj\Debug\PropertiesChallenges.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\PropertiesChallenges\obj\Debug\PropertiesChallenges.pdb
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\PropertiesChallenges\obj\Debug\PropertiesChallenges.csprojAssemblyReference.cache

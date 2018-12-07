@@ -1,0 +1,6 @@
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.03_Strings\bin\Debug\0.03_Strings.exe.config
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.03_Strings\bin\Debug\0.03_Strings.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.03_Strings\bin\Debug\0.03_Strings.pdb
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.03_Strings\obj\Debug\0.03_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.03_Strings\obj\Debug\0.03_Strings.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.03_Strings\obj\Debug\0.03_Strings.pdb

@@ -1,0 +1,6 @@
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Booleans_Conditionals\bin\Debug\0.02_Booleans_Conditionals.exe.config
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Booleans_Conditionals\bin\Debug\0.02_Booleans_Conditionals.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Booleans_Conditionals\bin\Debug\0.02_Booleans_Conditionals.pdb
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Booleans_Conditionals\obj\Debug\0.02_Booleans_Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Booleans_Conditionals\obj\Debug\0.02_Booleans_Conditionals.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Booleans_Conditionals\obj\Debug\0.02_Booleans_Conditionals.pdb

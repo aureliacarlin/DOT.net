@@ -1,0 +1,7 @@
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Types_Challenges\bin\Debug\0.02_Types_Challenges.exe.config
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Types_Challenges\bin\Debug\0.02_Types_Challenges.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Types_Challenges\bin\Debug\0.02_Types_Challenges.pdb
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Types_Challenges\obj\Debug\0.02_Types_Challenges.csprojAssemblyReference.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Types_Challenges\obj\Debug\0.02_Types_Challenges.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Types_Challenges\obj\Debug\0.02_Types_Challenges.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Types_Challenges\obj\Debug\0.02_Types_Challenges.pdb

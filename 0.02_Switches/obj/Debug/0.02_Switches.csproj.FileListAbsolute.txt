@@ -1,0 +1,7 @@
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Switches\bin\Debug\0.02_Switches.exe.config
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Switches\bin\Debug\0.02_Switches.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Switches\bin\Debug\0.02_Switches.pdb
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Switches\obj\Debug\0.02_Switches.csprojAssemblyReference.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Switches\obj\Debug\0.02_Switches.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Switches\obj\Debug\0.02_Switches.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Switches\obj\Debug\0.02_Switches.pdb

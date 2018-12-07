@@ -1,0 +1,6 @@
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Booleans\bin\Debug\0.02_Booleans.exe.config
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Booleans\bin\Debug\0.02_Booleans.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Booleans\bin\Debug\0.02_Booleans.pdb
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Booleans\obj\Debug\0.02_Booleans.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Booleans\obj\Debug\0.02_Booleans.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Booleans\obj\Debug\0.02_Booleans.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Methods\bin\Debug\Methods.exe.config
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Methods\bin\Debug\Methods.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Methods\bin\Debug\Methods.pdb
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Methods\obj\Debug\Methods.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Methods\obj\Debug\Methods.pdb

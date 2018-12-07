@@ -1,0 +1,6 @@
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Ternary_Operators\bin\Debug\0.02_Ternary_Operators.exe.config
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Ternary_Operators\bin\Debug\0.02_Ternary_Operators.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Ternary_Operators\bin\Debug\0.02_Ternary_Operators.pdb
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Ternary_Operators\obj\Debug\0.02_Ternary_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Ternary_Operators\obj\Debug\0.02_Ternary_Operators.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\0.02_Ternary_Operators\obj\Debug\0.02_Ternary_Operators.pdb
