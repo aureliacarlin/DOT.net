@@ -1,0 +1,7 @@
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Dictionaries\bin\Debug\Dictionaries.exe.config
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Dictionaries\bin\Debug\Dictionaries.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Dictionaries\obj\Debug\Dictionaries.csprojAssemblyReference.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Dictionaries\obj\Debug\Dictionaries.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Dictionaries\obj\Debug\Dictionaries.pdb

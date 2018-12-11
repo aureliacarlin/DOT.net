@@ -1,0 +1,7 @@
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Lists\bin\Debug\Lists.exe.config
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Lists\bin\Debug\Lists.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Lists\bin\Debug\Lists.pdb
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Lists\obj\Debug\Lists.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Lists\obj\Debug\Lists.pdb
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Lists\obj\Debug\Lists.csprojAssemblyReference.cache

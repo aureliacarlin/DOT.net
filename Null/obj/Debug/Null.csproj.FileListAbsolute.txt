@@ -1,0 +1,7 @@
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Null\bin\Debug\Null.exe.config
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Null\bin\Debug\Null.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Null\bin\Debug\Null.pdb
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Null\obj\Debug\Null.csprojAssemblyReference.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Null\obj\Debug\Null.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Null\obj\Debug\Null.exe
+C:\Users\Aurelia Carlin\Desktop\DOT.Net\CSharpFundamentals\Null\obj\Debug\Null.pdb
